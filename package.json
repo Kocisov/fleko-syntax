@@ -1,0 +1,31 @@
+{
+  "name": "fleko-syntax",
+  "description": "Gorgeous dark syntax theme.",
+  "version": "0.0.1",
+  "author": "kocisov",
+  "bugs": {
+    "url": "https://github.com/kocisov/fleko-syntax/issues"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/kocisov/fleko-syntax#readme",
+  "keywords": [
+    "dark",
+    "dark theme",
+    "darktheme",
+    "fleko",
+    "react",
+    "syntax",
+    "theme",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "index.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kocisov/fleko-syntax.git"
+  },
+  "scripts": {},
+  "theme": "syntax"
+}
