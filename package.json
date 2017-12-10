@@ -24,7 +24,7 @@
   "main": "index.less",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kocisov/fleko-syntax.git"
+    "url": "https://github.com/kocisov/fleko-syntax.git"
   },
   "scripts": {},
   "theme": "syntax"
